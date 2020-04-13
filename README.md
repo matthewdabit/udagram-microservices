@@ -51,3 +51,15 @@ Ionic CLI can build the frontend into static HTML/CSS/JavaScript files. These fi
 ionic build
 ```
 ***
+
+
+### Link to github repo: 
+https://github.com/matthewdabit/udagram-microservices
+
+### Links to Docker images: 
+
+https://hub.docker.com/repository/docker/caboose3011/udacity-restapi-user
+https://hub.docker.com/repository/docker/caboose3011/udacity-restapi-feed
+https://hub.docker.com/repository/docker/caboose3011/reverseproxy
+https://hub.docker.com/repository/docker/caboose3011/udacity-frontend
+
