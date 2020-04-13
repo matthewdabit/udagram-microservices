@@ -64,4 +64,4 @@ https://hub.docker.com/repository/docker/caboose3011/reverseproxy
 https://hub.docker.com/repository/docker/caboose3011/udacity-frontend
 
 
-###Screenshots are in `microservice-udagram-screenshots.zip`
+### Screenshots are in `microservice-udagram-screenshots.zip`
