@@ -1,0 +1,9 @@
+
+.DS_Store
+.idea/.gitignore
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/udagram-microservices.iml
+.idea/vcs.xml
+udacity-c3-deployment/k8s/aws-secret.yaml
